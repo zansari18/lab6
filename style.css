@@ -1,4 +1,56 @@
 td, th {
 	border: 1px solid;
   }
-  
+ body {  
+	background-color: black;
+	background-image: url("stars-space.gif");
+ }
+ 
+ #planets {
+	margin:auto;
+	width: 80%;
+	height: 100%;
+	border: 5 px solid white;
+	
+	color: fuchsia;
+	font-family: "Papyrus", fantasy;
+	font-size: medium;
+	font-weight: 700;
+	padding: 30px 15px;
+ }
+.pic {
+	 color:orange;
+ }
+ .temp {
+	 color:red;
+ }
+ .distance {
+	 color:rgb(138,043,226);
+ }
+ .LoD {
+	 color:aqua;
+ }
+ .gravity {
+	 color:blue;
+ }
+ .orbit {
+	 color:yellow;
+ }
+ .mass {
+	 color:maroon;
+ }
+ .moons {
+	 color:rgb(255,210,0);
+ }
+img {
+	width: 100%;
+}
+h1 {
+	color: lime;
+	font-family: "Lucida Handwriting", cursive;
+	border: 20px solid purple;
+	border-radius:25% 20%;
+	margin:auto;
+	width:65%;
+	text-align: center;
+}
